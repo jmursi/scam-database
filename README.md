@@ -51,7 +51,7 @@ Visit: https://[your-username].github.io/kenya-scam-database
 
 ## 📧 Contact
 **Daystar University - Institute of Data Science, AI, and Cybersecurity**
-- Email: datascience@daystar.ac.ke
+- Email: jmursi@daystar.ac.ke
 - Location: Nairobi, Kenya
 
 ## 🌟 Research Impact
